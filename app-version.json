@@ -1,6 +1,6 @@
 {
   "android": {
-    "versionCode": 17,
+    "versionCode": 19,
     "versionName": "1.0.0"
   },
   "updateType": "optional"
